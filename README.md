@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2019/10/03/12/12/programmer-4523101_1280.jpg" alt="scrabble programmer" width="99%" height="33%">
+  <img src="https://drive.google.com/file/d/1JEQXVLMwdGIiFQDtfdRO0jq7ZHVBCsNX/view?usp=sharing" alt="scrabble programmer" width="99%" height="33%">
 </div>
 <br/>
 <div align="center">
