@@ -17,7 +17,7 @@
   Hello and welcome to my GitHub portfolio! 👋🏾
 </h1>
 
-I'm a backend developer, electronics engineer (by profession), and digital artist currently studying at AltSchool Africa. I've got a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
+I am a junior backend developer/ electronics engineer (by profession), and digital artist currently studying at AltSchool Africa. I've got a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
 
 **Here's a quick summary about me**:
 
