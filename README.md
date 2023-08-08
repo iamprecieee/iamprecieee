@@ -22,10 +22,10 @@ I'm a backend developer, electronics engineer (by profession), and digital artis
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him.
-- 💡 Fun facts: I love racing games and scifi/fantasy movies. I also love listening to classical/orchestral music. I love art, and I create some myself. I think I like cats🙂.
-- 🌱 I’m currently learning Python- Flask (while practicing HTML, CSS & Javascript), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun facts: I love racing games and scifi/fantasy movies. I also love listening to classical/orchestral music and making art🙂.
+- 🌱 Graduate of Backend Engineering(Python-flask) from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 💻 I’m interested in contributing to open source projects, engaging in hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Backend Engineering, Community Management, Electronics Software.
+- 💼 Job interests: Backend Engineering, Community Management, Electronics Software development.
 - 📫 You can contact me via email: emmypresh777@gmail.com.
 
 ---
