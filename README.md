@@ -13,40 +13,42 @@
   <img src="https://komarev.com/ghpvc/?username=iamprecieee&style=flat-square&color=green" alt="Profile View Counter"/>
 </div>
 
-<h1 align="center">
-  Hello and welcome to my GitHub portfolio! 👋🏾
-</h1>
+<h2 align="center">
+  Profile Overview
+</h2>
 
 - 💡 I am a backend engineer proficient in Python, Flask, Django, PostgreSQL, MySQL, and Git and digital artist with a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
 
 - 💼 I am currently open to internships, job opportunities for Backend Engineering(Python/Flask) roles, startup partnerships, contracts, and other project collaborations.
   
-- 📫 You can contact me via [email](emmypresh777@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamprecieee)
+- 📫 You can contact me via [Email](emmypresh777@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamprecieee)
 
 ---
 
-<h3 align="center">
-  If you'd like to use this profile as a template, <a href="https://github.com/iamprecieee/iamprecieee"> feel free to fork this repo<a/>
-</h3>
-
----
-
-<h1 align="center">
+<h2 align="center">
   :hammer_and_wrench: Languages and Tools
-</h1>
+</h2>
  
 <div align="center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprecieee&show_icons=true&include_all_commits=true&hide_border=true" alt="iamprecieee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprecieee&langs_count=8&layout=compact&hide_border=true" alt="iamprecieee's GitHub stats" />
 | ------------- | ------------- |
+
+
+
+
+<h3 align="center">
+  If you'd like to use this profile as a template, <a href="https://github.com/iamprecieee/iamprecieee"> feel free to fork this repo<a/>
+</h3>
