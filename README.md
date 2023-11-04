@@ -17,16 +17,11 @@
   Hello and welcome to my GitHub portfolio! 👋🏾
 </h1>
 
-I am a backend developer and digital artist with a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
+- 💡 I am a backend engineer proficient in Python, Flask, Django, PostgreSQL, MySQL, and Git and digital artist with a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
 
-**Here's a quick summary about me**:
-
-- 👨‍💻 Pronouns: He/Him.
-- 💡 Fun facts: I love racing games and scifi/fantasy movies. I also love listening to classical/orchestral music and making art🙂.
-- 🌱 Graduate of Backend Engineering(Python-flask) from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 💻 I’m interested in contributing to open source projects, engaging in hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Backend Engineering, Community Management, Electronics Software development.
-- 📫 You can contact me via email: emmypresh777@gmail.com.
+- 💼 I am currently open to internships, job opportunities for Backend Engineering(Python/Flask) roles, startup partnerships, contracts, and other project collaborations.
+  
+- 📫 You can contact me via [email](emmypresh777@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamprecieee)
 
 ---
 
@@ -47,13 +42,9 @@ I am a backend developer and digital artist with a passion for trying out and wo
   ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
