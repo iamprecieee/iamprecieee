@@ -13,15 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=iamprecieee&style=flat-square&color=green" alt="Profile View Counter"/>
 </div>
 
-<h2 align="center">
-  Profile Overview
-</h2>
-
-- 💡 I am a backend engineer proficient in Python, Flask, Django, PostgreSQL, MySQL, and Git and digital artist with a passion for trying out and working with innovative tech products, creating art, problem-solving and learning to improve my overall skills.
-
-- 💼 I am currently open to internships, job opportunities for Backend Engineering(Python/Flask) roles, startup partnerships, contracts, and other project collaborations.
-  
-- 📫 You can contact me via [Email](emmypresh777@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamprecieee)
+- 💡 Backend developer- Python (primarily Django/DRF and a bit of Flask), PostgreSQL, and Git.
+- 👨🏽‍💻Bringing ideas to life, one character at a time.
 
 ---
 
@@ -32,8 +25,8 @@
 <div align="center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,10 +38,3 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprecieee&show_icons=true&include_all_commits=true&hide_border=true" alt="iamprecieee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprecieee&langs_count=8&layout=compact&hide_border=true" alt="iamprecieee's GitHub stats" />
 | ------------- | ------------- |
-
-
-
-
-<h3 align="center">
-  If you'd like to use this profile as a template, <a href="https://github.com/iamprecieee/iamprecieee"> feel free to fork this repo<a/>
-</h3>
