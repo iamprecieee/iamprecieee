@@ -36,5 +36,3 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprecieee&show_icons=true&include_all_commits=true&hide_border=true" alt="iamprecieee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprecieee&langs_count=8&layout=compact&hide_border=true" alt="iamprecieee's GitHub stats" />
 | ------------- | ------------- |
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/iamprecieee/iamprecieee/blob/main/1.png?raw=true');]{x0000}$}
