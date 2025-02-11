@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamprecieee&style=flat-square&color=green" alt="Profile View Counter"/>
 </div>
 
-- 💡 Backend developer- Python (Django/DRF), PostgreSQL, Git.
+- 💡 Backend developer- Python (Django/DRF, FastAPI), SQLAlchemy/Model, PostgreSQL, Git.
 - 👨🏽‍💻Bringing ideas to life, one character at a time.
 
 ---
