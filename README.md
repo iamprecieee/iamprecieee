@@ -1,5 +1,4 @@
 <div align="center">
-<!--   <img src="https://drive.google.com/file/d/1JEQXVLMwdGIiFQDtfdRO0jq7ZHVBCsNX/view?usp=sharing" alt="scrabble programmer" width="99%" height="33%"> -->
 </div>
 <br/>
 <div align="center">
@@ -10,10 +9,10 @@
  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamprecieee&style=flat-square&color=green" alt="Profile View Counter"/>
-</div>
+</div><br>
 
-- 💡 Backend developer- Python (Django/DRF, FastAPI), SQLAlchemy/Model, PostgreSQL, Git.
-- 👨🏽‍💻Bringing ideas to life, one character at a time.
+- 🔧 **Backend Developer** - Python (Django/DRF, FastAPI), SQL[Alchemy/Model], PostgreSQL, Git  
+- *🚀 Bringing ideas to life, one line of code at a time*
 
 ---
 
@@ -25,14 +24,27 @@
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  
+</div
 
 ---
+<h2 align="center">
+  📊 GitHub Stats
+</h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprecieee&show_icons=true&include_all_commits=true&hide_border=true" alt="iamprecieee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprecieee&langs_count=8&layout=compact&hide_border=true" alt="iamprecieee's GitHub stats" />
-| ------------- | ------------- |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamprecieee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprecieee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprecieee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  
+</div>
