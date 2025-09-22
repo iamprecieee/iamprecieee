@@ -11,9 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=iamprecieee&style=flat-square&color=green" alt="Profile View Counter"/>
 </div><br>
 
-- 🔧 **Backend Developer** - Python (Django/DRF, FastAPI), SQL[Alchemy/Model], PostgreSQL, Git  
-- *🚀 Bringing ideas to life, one line of code at a time*
-
 ---
 
 <h2 align="center">
@@ -25,6 +22,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
